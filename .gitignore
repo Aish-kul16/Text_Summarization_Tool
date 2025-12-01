@@ -2,15 +2,19 @@
 venv/
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+.env
+.env.*
 
 # Jupyter
 .ipynb_checkpoints/
 
-# OS
+# OS files
 .DS_Store
 Thumbs.db
 
-# Models / large data (optional)
+# Models / large data
 models/
 checkpoints/
 data/
