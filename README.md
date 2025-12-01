@@ -24,8 +24,9 @@ venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
+
 # If requirements.txt doesn't exist:
-# pip install streamlit transformers torch
+pip install streamlit transformers torch
 
 ## ▶️ Run the Application
 
