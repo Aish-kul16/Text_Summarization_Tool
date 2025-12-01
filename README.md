@@ -35,11 +35,11 @@ streamlit run app.py
 
 ## 📂 Project Structure
 
-app.py
-README.md
-.gitignore
-requirements.txt   (optional)
-venv/              (ignored)
+- app.py
+- README.md
+- .gitignore
+- requirements.txt   (optional)
+- venv/              (ignored)
 
 
 ## 🔮 Future Enhancements
